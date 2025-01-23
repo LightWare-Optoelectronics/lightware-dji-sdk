@@ -18,7 +18,7 @@ This code is establishing a connection with the DJI M350 using the Payload SDK a
 | sources/lightware | Contains the LightWare LW20/c implementation to interface with the sensors |
 
 
-## LW20/c Interface
+## LW20/C Interface
 
 This project uses a software defined representation of the sensor configuration as an 'array'.
 
